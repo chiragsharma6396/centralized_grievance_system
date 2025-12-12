@@ -1,0 +1,5 @@
+{
+  "name": "CGRS - Centralized Grievance Redressal System",
+  "description": "A unified platform for citizens to file and track government service complaints with automatic routing and status tracking.",
+  "requestFramePermissions": []
+}
